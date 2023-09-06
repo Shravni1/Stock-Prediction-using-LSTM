@@ -1,4 +1,4 @@
-# Stock-Prediction-using-LSTM
+# Stock Price-Prediction-using-LSTM
 This is my task 2 for Bharat intern under the internship program of 'Data science intern'
 The project involved collecting historical stock price data for a particular stock, in that we take tesla stocks Inc.
 Then data was then pre-processed to remove any outliers or noise.
